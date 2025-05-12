@@ -353,7 +353,8 @@ class triatlon:
 
 
 def menu():
-
+    print('Prueba de versionado MINOR')
+    input()
     triatlon_menu = triatlon()
 
     while True:
