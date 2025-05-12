@@ -362,7 +362,7 @@ def menu():
         console.print('[blue]MENÚ PRINCIPAL[/]')
         print('-------------------------------------------------------------------')
         print('')
-        print('1. Participantes')
+        print('1. Participantess')
         print('2. Triatlón')
         print('3. Salir')
         print('')
