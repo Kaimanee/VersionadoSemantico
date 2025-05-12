@@ -1,3 +1,3 @@
 # VersionadoSemantico
 
-VERSIÓN: 1.1.0
+VERSIÓN: 1.1.1
