@@ -234,7 +234,7 @@ class triatlon:
         #Tabla
         while True:
             os.system('cls')
-            console.print('VISUALIZACIÓN DE RESULTADOS', style = 'blue')
+            console.print('VISUALIZACIÓN DE RESULTADOS', style='blue')
             print('-------------------------------------------------------------------')
             print('')
             print('1. Ver resultados individuales')
